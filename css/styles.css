@@ -1,0 +1,102 @@
+.qv-object-tooltip .myP{
+ font-family:sans-serif !important;
+ text-align:justify !important;
+ }
+
+.qv-object-tooltip .myH5{
+ font-family:sans-serif !important;
+ text-align:center !important;
+ font-style:bold ! important;
+ }
+
+.qv-object-tooltip .myButton{
+    
+ font-style:bold ! important;
+ max-width :100% !important;
+ display:block !important;
+ width:100% !important;
+ margin: auto !important;
+min-width:1px !important;
+    
+
+}
+
+.qv-object-tooltip .modal-dialog{
+ 	height: 100%;
+ }
+
+ .qv-object-tooltip .modal-content, .modal-body{
+ 	height: 80%;
+ }
+
+.modal.descModal {
+top:0%;
+right:0%;
+outline: none;
+z-index: 100;
+}
+
+.modalChart{
+	height: 100%;
+}
+
+.modalChart .qv-inner-object{
+	height: 100%;
+}
+
+
+#modalChart .header-title{
+	font-size: 1em;
+	font-weight: bold;
+}
+
+
+.modal-backdrop {
+   opacity:0.9 !important;
+}
+
+.bootstrap_inside .container {
+    width: 98% !important;
+	height: 103% !important;
+}
+
+/* .bootstrap_inside .qv-object .qv-object-title {
+    white-space: normal;
+} */
+
+.bootstrap_inside .qvplaceholder.drop-hover{
+  border: 3px solid #ff8e00;
+}
+
+.bootstrap_inside .qvtarget{
+  border: 1px dashed #269abc;
+}
+
+
+.bootstrap_inside .tab-content{	
+	padding-top: 6px;
+	border: 1px solid #ddd;
+	border-top-color: transparent;
+}
+
+.bootstrap_inside .qvobject{	
+	margin: auto;
+	height: 97% !important;
+	width: 90% !important;
+}
+
+/* Important - do not delete! */
+.bootstrap_inside {
+	height: 100% !important;
+}
+
+.bootstrap_inside h1 {
+/*     padding-top: 6px; */
+	padding: 3px 0 0 20%;
+	margin: 0.2em 0;
+	font-size: 12px;
+	font-weight: bold;
+    text-align: center;
+}
+
+
